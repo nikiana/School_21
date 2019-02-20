@@ -1,3 +1,3 @@
 # 2_Fillit
 
-Find a best solution for a given list of tetriminos.
+A programme that finds a best solution for a given list of tetriminos.
