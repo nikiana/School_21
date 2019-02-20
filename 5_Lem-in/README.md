@@ -11,4 +11,4 @@ In our project we used BFS as a main algorithm for traversing our graph data str
 Usage:  ./lem-in < maps/*map_test*
 
 Run the program with [-v] flag to see the wonderful graphics! :)
-Press ctrl to highlight the paths we chose and numeric enter to make ants move. 
+Press ctrl to highlight the paths we chose and numeric enter to make ants move.
